@@ -34,7 +34,7 @@ excerpt_separator: "\n\n"
 detach:       false
 port:         4000
 host:         127.0.0.1
-baseurl:      "/blog" # does not include hostname
+baseurl:      "" # does not include hostname
 
 # Outputting
 permalink:     date
@@ -115,12 +115,12 @@ disqus:
 
 #################################### global configure #######################################
 
-username: minixalpha
-baseurl: /StrayBirds
+username: zwysg
+baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
+title: 我的博客
 description: 人生到处知何似，应似飞鸿踏雪泥
 theme: kunka
 disqusname: minixalpha
