@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: zwysg
-baseurl: /blog
+baseurl: /zwyblog
 markdown: redcarpet
 safe: false
 highlighter: pygments
